@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/survey.iml" filepath="$PROJECT_DIR$/.idea/modules/survey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/survey.iml" filepath="$PROJECT_DIR$/survey.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/survey_main.iml" filepath="$PROJECT_DIR$/.idea/modules/survey_main.iml" group="survey" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/survey_test.iml" filepath="$PROJECT_DIR$/.idea/modules/survey_test.iml" group="survey" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workspace-survey.iml" filepath="$PROJECT_DIR$/.idea/modules/workspace-survey.iml" />
     </modules>
   </component>
 </project>
