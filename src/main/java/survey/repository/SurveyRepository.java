@@ -1,9 +1,7 @@
-package survey.data.serivce;
+package survey.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
-import survey.data.entity.Survey;
-
-import java.util.List;
+import survey.entity.Survey;
 
 public interface SurveyRepository extends MongoRepository<Survey, String>{
 

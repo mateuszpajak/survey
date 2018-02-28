@@ -1,4 +1,4 @@
-package survey.data.entity;
+package survey.entity;
 
 import org.springframework.data.annotation.Id;
 
